@@ -1,2 +1,1 @@
-#!/bin/bash
-whoami
+echo "The effective username is: $username"
