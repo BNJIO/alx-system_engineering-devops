@@ -1,1 +1,2 @@
-echo "The effective username is: $username"
+#!/bin/bash
+username=root
